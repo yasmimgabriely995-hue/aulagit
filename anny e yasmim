@@ -1,0 +1,29 @@
+<html>
+    <h1> moda beleza yasny </h1>
+    <p> Eu, Anny, junto com minha amiga Yasmim, criamos a loja de maquiagem Moda Beleza Yasny com o objetivo de oferecer produtos que valorizem a beleza de cada mulher e aumentem sua confiança. Nosso sonho sempre foi empreender juntas e transformar nossa paixão por maquiagem em algo que pudesse inspirar outras pessoas. Além disso, queremos incentivar outras mulheres a se cuidarem mais, fortalecerem sua autoestima e acreditarem no próprio potencial, mostrando que todas são capazes de conquistar seus objetivos e se sentirem ainda mais bonitas e seguras.</p>
+    <a href="p2.html"> Hobbies </a>
+     <a href="p3.html"> Contato </a>
+</html>
+
+
+<html>
+ <ul>
+<li>base</li>
+<li>iluminador</li>
+<li>contorno</li>
+<li>bruma</li>
+<li>blush</li>
+</ul>
+<img src="https://vintagefashion.com.br/wp-content/uploads/2020/12/close-up-collection-of-make-up-and-beauty-products-1024x706.jpg" alt="Kit de maquiagem da loja Moda Beleza Yasny">
+<a href="p1.html"> Inicio </a>  
+</html>
+
+<html>
+ <label>Nome:</label>
+<input type="text">
+<label>Email:</label>
+<input type="email">
+<label>Mensagem:</label>
+<input type="text"> 
+ <a href="p1.html"> Inicio </a>  
+</html>
